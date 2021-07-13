@@ -1,4 +1,4 @@
-# ENDO Takumi Resume
+# 👔 ENDO Takumi Resume
 日本工学院専門学校 ITカレッジ ITスペシャリスト科 2年生。
 
 ## Information
