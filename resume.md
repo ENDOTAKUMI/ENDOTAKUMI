@@ -9,11 +9,11 @@
 📧 Email: endo.takumi.info@gmail.com
 
 ### Links
-🐦 [Twitter @endotakumi_dev](https://twitter.com/endotakumi_dev)
+🐦 [Twitter](https://twitter.com/endotakumi_dev)
 
 📃 [Wantedly](https://www.wantedly.com/id/endotakumi)
 
-📷 [Instagram @endo_takumi_photo](https://www.instagram.com/endo_takumi_photo/)
+📷 [Instagram](https://www.instagram.com/endo_takumi_photo/)
 
 📝 Articles
 - [Qiita](https://qiita.com/ENDOTAKUMI)
