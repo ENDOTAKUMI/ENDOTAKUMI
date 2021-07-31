@@ -7,6 +7,7 @@
 🎂 Birthday: 2001/06/05
 
 📧 Email: endo.takumi.info@gmail.com
+or [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe-UTUn3SppvF5HTcqk9V70ac_7VV81gL2HKa6mKrjWSbY6GA/viewform)
 
 ### Links
 🐦 [Twitter](https://twitter.com/endotakumi_dev)
