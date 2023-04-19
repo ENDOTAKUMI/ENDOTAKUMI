@@ -1,5 +1,5 @@
 # 👔 ENDO Takumi Resume
-日本工学院専門学校 ITカレッジ ITスペシャリスト科 3年生。
+日本工学院専門学校 ITカレッジ ITスペシャリスト科 4年生。
 
 ## Information
 👦🏻 Name: ENDO Takumi(遠藤 拓巳)
