@@ -1,5 +1,7 @@
 # 👔 ENDO Takumi Resume
-日本工学院専門学校 ITカレッジ ITスペシャリスト科 4年生。
+- 都内IT企業 勤務
+- 日本工学院専門学校 ITカレッジ ITスペシャリスト科 卒業
+- 埼玉県立狭山工業高等学校 電子機械科 卒業
 
 ## Information
 👦🏻 Name: ENDO Takumi(遠藤 拓巳)
@@ -25,8 +27,9 @@ or [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe-UTUn3SppvF5HTcqk9V7
 ## Projects
 
 ## Events
-- Kotlin Fest 2019
+- FlutterKaigi 2023
 - PHPerKaigi 2020
+- Kotlin Fest 2019
 
 ## Skills
 ### Git ⭐⭐⭐⭐
@@ -36,6 +39,9 @@ or [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe-UTUn3SppvF5HTcqk9V7
 Androidアプリの開発を行っています。
 基本的なアーキテクチャはMVPを使用していました。
 
+### Flutter
+
+
 ### Python ⭐
 授業で使用していました。
 
@@ -43,7 +49,7 @@ Androidアプリの開発を行っています。
 Webサイトの制作経験があります。
 受注制作を行いました。
 
-### PHP ⭐⭐⭐
+### PHP(Laravel) ⭐⭐⭐
 Webサービスの制作経験があります。
 
 ## 🗣 Languages
